@@ -66,9 +66,3 @@ The ML pipeline includes the following components:
 6. Run the pipeline and deploy the model
 
 ---
-
-##  License
-
-This project is open source under the [MIT License](LICENSE).
-
-
