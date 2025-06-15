@@ -1,4 +1,4 @@
-# 🍷 ml-pipeline-wine-azure
+#  ml-pipeline-wine-azure
 
 This project demonstrates how to build a **Machine Learning pipeline using Azure ML Designer** to predict **wine quality** based on physicochemical properties. It leverages a **drag-and-drop low-code approach** to create, train, evaluate, and deploy ML models—all within the Azure ML Studio interface.
 
@@ -7,12 +7,12 @@ This project demonstrates how to build a **Machine Learning pipeline using Azure
 
 ---
 
-## 🧪 Dataset
+##  Dataset
 
 We used the [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset) from the Kaggle, which includes the results of physicochemical tests on Portuguese "Vinho Verde" red and white wine variants. The dataset is designed for classification tasks to predict wine quality scores based on chemical composition.
 
 
-## 🚀 Key Features
+##  Key Features
 
 - Built using **Azure ML Designer** (drag-and-drop interface)
 - Covers **data ingestion**, **data cleaning**, **feature normalization**
@@ -22,7 +22,7 @@ We used the [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Azure Machine Learning Studio**
 - Azure ML Designer (Low-code ML interface)
@@ -32,7 +32,7 @@ We used the [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-
 
 ---
 
-## 📊 Model Pipeline Overview
+##  Model Pipeline Overview
 
 The ML pipeline includes the following components:
 
@@ -44,7 +44,7 @@ The ML pipeline includes the following components:
 
 ---
 
-## 🖼️ Screenshots 
+##  Snapshots 
 ![image](https://github.com/user-attachments/assets/f050e53f-26f2-44cf-9b49-895591855514)
 ![image](https://github.com/user-attachments/assets/caa60259-b973-48d1-a80a-2c45793b0ed5)
 ![image](https://github.com/user-attachments/assets/63e80153-2452-450d-ba87-7812d12299a1)
@@ -53,7 +53,7 @@ The ML pipeline includes the following components:
 
 ---
 
-## 🧠 Author
+##  Author
 
 **Muhammad Hammad Nazir**  
 - GitHub: [@HammadNazir048](https://github.com/HammadNazir048)  
@@ -61,7 +61,7 @@ The ML pipeline includes the following components:
 
 ---
 
-## 📌 How to Reproduce
+##  How to Reproduce
 
 > If you’re uploading your `config.json` or pipeline export:
 
@@ -74,7 +74,7 @@ The ML pipeline includes the following components:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source under the [MIT License](LICENSE).
 
