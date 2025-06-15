@@ -44,9 +44,12 @@ The ML pipeline includes the following components:
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-> Add screenshots of your Azure ML Designer pipeline for visual clarity.
+## 🖼️ Screenshots 
+![image](https://github.com/user-attachments/assets/f050e53f-26f2-44cf-9b49-895591855514)
+![image](https://github.com/user-attachments/assets/caa60259-b973-48d1-a80a-2c45793b0ed5)
+![image](https://github.com/user-attachments/assets/63e80153-2452-450d-ba87-7812d12299a1)
+![image](https://github.com/user-attachments/assets/d1f5c6b4-ba80-4f3a-b20d-513fe8e606b7)
+![image](https://github.com/user-attachments/assets/6506e84a-2ea4-4fa1-aa5a-788b9cbcad8a)
 
 ---
 
