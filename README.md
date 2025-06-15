@@ -9,7 +9,7 @@ This project demonstrates how to build a **Machine Learning pipeline using Azure
 
 ## 🧪 Dataset
 
-We used the [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) from the UCI Machine Learning Repository, which contains physicochemical tests of red/white variants of Portuguese "Vinho Verde" wine.
+We used the [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset) from the Kaggle, which includes the results of physicochemical tests on Portuguese "Vinho Verde" red and white wine variants. The dataset is designed for classification tasks to predict wine quality scores based on chemical composition.
 
 
 ## 🚀 Key Features
