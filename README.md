@@ -2,11 +2,6 @@
 
 This project demonstrates how to build a **Machine Learning pipeline using Azure ML Designer** to predict **wine quality** based on physicochemical properties. It leverages a **drag-and-drop low-code approach** to create, train, evaluate, and deploy ML models—all within the Azure ML Studio interface.
 
----
-
-
----
-
 ##  Dataset
 
 We used the [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset) from the Kaggle, which includes the results of physicochemical tests on Portuguese "Vinho Verde" red and white wine variants. The dataset is designed for classification tasks to predict wine quality scores based on chemical composition.
@@ -20,7 +15,6 @@ We used the [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-
 - Evaluates performance with **accuracy**, **confusion matrix**
 - Deploys as a **real-time web service** for predictions
 
----
 
 ##  Tools & Technologies
 
@@ -30,7 +24,6 @@ We used the [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-
 - Dataset: Wine Quality (CSV)
 - JSON config for reproducibility
 
----
 
 ##  Model Pipeline Overview
 
